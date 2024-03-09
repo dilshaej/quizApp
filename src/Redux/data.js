@@ -1,0 +1,85 @@
+export const data = [
+    {
+      question : "Whitch of the following tag is used to make the underlined text?",
+      option1: "<i>",
+      option2: "<ul>",
+      option3: "<u>",
+      option4: "<pre>",
+      ans : 3 ,
+    },
+    {
+        question : "Whitch is the correct CSS syntax?",
+        option1: "body {color:black}",
+        option2: "{body;color:black}",
+        option3: "{body:color=black{body}",
+        option4: "body:color=black",
+        ans : 1 ,
+      },
+      {
+        question : "Whitch of the following keywords is used to define a variable in JavaScript?",
+        option1: "var",
+        option2: "let",
+        option3: "var and let",
+        option4: "None of the above",
+        ans : 3 ,
+      },
+     
+      {
+        question : "Whitch of the following tag is used to define options in a drop-down selection list?",
+        option1: "<select>",
+        option2: "<list>",
+        option3: "<dropdown>",
+        option4: "<option>",
+        ans : 2 ,
+      },
+      
+      {
+        question : "Whitch of the following CSS Property controls how an element is positioned?",
+        option1: "static",
+        option2: "position",
+        option3: "fix",
+        option4: "<option>",
+        ans : 2 ,
+      },
+      {
+        question : "How can a datatype be declared to be a constant type",
+        option1: "const",
+        option2: "var",
+        option3: "let",
+        option4: "constant",
+        ans : 1 ,
+      },
+      {
+        question : "Whitch character is used to represent the closing of a tag in HTML?",
+        option1: " \ ",
+        option2: "!",
+        option3: "/",
+        option4: ".",
+        ans : 3 ,
+      },
+      {
+        question : "In CSS ,fontsize can be called as?",
+        option1: "Selector",
+        option2: "Rule",
+        option3: "Property",
+        option4: "Property-Name",
+        ans : 3,
+      },
+      {
+        question : "Whitch of the following methods can be used to display data in some form using JavaScript?",
+        option1: "document.write()",
+        option2: "console.log()",
+        option3: "window.aiert",
+        option4: "All of the above",
+        ans : 4 ,
+      },
+      {
+        question : "Whitch of the following HTML tag is used to create an unordered list?",
+        option1: "<ol>",
+        option2: "<ul>",
+        option3: "<li>",
+        option4: "<ll>",
+        ans : 2 ,
+      }
+
+];
